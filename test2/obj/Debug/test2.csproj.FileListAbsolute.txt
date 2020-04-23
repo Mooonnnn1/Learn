@@ -1,0 +1,11 @@
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\bin\Debug\test2.exe.config
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\bin\Debug\test2.exe
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\bin\Debug\test2.pdb
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\obj\Debug\test2.csprojAssemblyReference.cache
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\obj\Debug\test2.Form1.resources
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\obj\Debug\test2.Properties.Resources.resources
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\obj\Debug\test2.csproj.GenerateResource.cache
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\obj\Debug\test2.exe
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\obj\Debug\test2.pdb
+C:\Users\Mac\Desktop\计算机图形学\test2\test2\obj\Debug\test2.Form2.resources
